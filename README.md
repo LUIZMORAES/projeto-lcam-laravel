@@ -1,4 +1,4 @@
-![](C:\xampp\htdocs\projeto_lcam\imagem_projeto\portifolio.jpg)
+![](https://github.com/LUIZMORAES/projeto-lcam-laravel/blob/main/imagem_projeto/portifolio.jpg)
 
 
 
