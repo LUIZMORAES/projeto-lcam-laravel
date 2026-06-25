@@ -1,0 +1,31 @@
+# Backend
+backend/.env
+backend/.env.local
+backend/vendor/
+backend/node_modules/
+backend/*.log
+backend/storage/
+backend/bootstrap/cache/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.pem
+*.key
+.env.*.local
